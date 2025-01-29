@@ -16,7 +16,7 @@ export function Navbar({ cartItemCount, onCartClick }: NavbarProps) {
     <header className="bg-white shadow-sm sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
-          <Link to="/" className="text-2xl font-bold text-gray-900">TechStore</Link>
+          <Link to="/" className="text-2xl font-bold text-gray-900">Craftisan</Link>
           
           <nav className="hidden md:flex items-center gap-8">
             <Link 
